@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://anaksdcolmek.pages.dev/sitemap.xml
